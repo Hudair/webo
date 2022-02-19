@@ -1,3 +1,6 @@
-/assets
+
 /core/vendor
 /core/.env
+/assets/admin/img
+/assets/front/img
+/assets/front/invoices
